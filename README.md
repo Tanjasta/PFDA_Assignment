@@ -1,6 +1,10 @@
 # PFDA_Assignment
+
+
 Programming for Data Analysis Assignment
+
 ## Task
+
 Task for this Assignment is create a data set by simulating a real-world phenomenon.
 
 • Choose a real-world phenomenon that can be measured and for which you could
@@ -29,27 +33,3 @@ Install the required Python libraries using the following command:
 
 ```bash
 pip install numpy pandas matplotlib seaborn
-
-#### Dependencies
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
-
-2. Open the Jupyter Notebook
-
-```bash
-
-jupyter notebook
-
-Navigate to the project's Jupyter Notebook file (e.g., your_project.ipynb) and open it.
-
-Run the notebook cells to execute the code.
-
-
-
-
-### Licence
-GNU GENERAL PUBLIC LICENSE
