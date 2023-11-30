@@ -20,7 +20,7 @@ data set itself can simply be displayed in an output cell within the notebook.
 
 
 ## Description
-This project presents a simulation of a dataset that illustrates the relationship among study load, sleep quality, academic performance, and stress levels of students. To achieve this, a set of data points representing real-life scenarios and patterns observed in actual situations was generated. This process involved creating a dataset that reflects the correlations between study load, sleep quality, academic performance, and stress levels.
+This project presents a simulation of a dataset that illustrates the relationship among study load, sleep quality, academic performance, and stress levels of students. To achieve this, a set of data points representing real-life scenarios and patterns observed in actual situations was generated from an online source. This process involved creating a dataset that reflects the relationship between study load, sleep quality, academic performance, and stress levels.
 
 
 
